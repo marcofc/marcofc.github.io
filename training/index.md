@@ -4,7 +4,7 @@ layout: default
 
 #Training Offerings
 
-MarcoFC is available for a variety of training offerings:
+Marco FC offers a variety of training:
 
 * Youth camps
 * Team training
@@ -12,4 +12,4 @@ MarcoFC is available for a variety of training offerings:
 * Individual training
 
 <br />
-<a class="btn btn-success btn-lg" href="mailto:marco@campover.de?subject=MarcoFC Soccer Training">Request Information</a>
+<a class="btn btn-success btn-lg" href="mailto:marco@campover.de?subject=Marco FC Training">Request Information</a>

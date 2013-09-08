@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#Contact MarcoFC
+#Contact Marco FC
 
-###email: <a href="mailto:marco@campover.de?subject=MarcoFC Info">marco@campover.de</a>
+###email: <a href="mailto:marco@campover.de?subject=Marco FC Contact">marco@campover.de</a>
 ###phone: (701) 610-9889
