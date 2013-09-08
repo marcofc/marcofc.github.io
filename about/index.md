@@ -11,7 +11,7 @@ _Marco at a World Cup Qualifying match in Quito, Ecuador_
 ###Playing Experience
 * 4 Years Varsity for Red River High School
 * 2005 North Dakota State Champion for Red River High School
-* Red River High School All-Time Single Season Scoring record.
+* Red River High School All-Time Single Season Scoring record
 * Professional trial with Ecuador Primera A Club Deportivo Cuenca
 
 ###Coaching Experience
